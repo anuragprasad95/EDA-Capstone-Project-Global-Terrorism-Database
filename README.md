@@ -10,6 +10,6 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 
 **Main Libraries to be used:**
 1. Pandas for data manipulation, aggregation
-2. Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable. Use at least 5 different visualisations.
+2. Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable.
 3. NumPy for computationally efficient operations
 
